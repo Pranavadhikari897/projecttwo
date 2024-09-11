@@ -1,0 +1,22 @@
+export const products = [
+    { id: 1, name: 'Red Dress', price: 29.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Red+Dress' },
+    { id: 2, name: 'Blue Dress', price: 19.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Blue+Dress' },
+    { id: 3, name: 'Green Dress', price: 24.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Green+Dress' },
+    { id: 4, name: 'Yellow Dress', price: 34.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Yellow+Dress' },
+    { id: 5, name: 'Black Dress', price: 39.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Black+Dress' },
+    { id: 6, name: 'White Dress', price: 29.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=White+Dress' },
+    { id: 7, name: 'Purple Dress', price: 44.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Purple+Dress' },
+    { id: 8, name: 'Orange Dress', price: 49.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Orange+Dress' },
+    { id: 9, name: 'Pink Dress', price: 39.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Pink+Dress' },
+    { id: 10, name: 'Brown Dress', price: 59.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Brown+Dress' },
+    { id: 11, name: 'Floral Dress', price: 54.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Floral+Dress' },
+    { id: 12, name: 'Striped Dress', price: 64.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Striped+Dress' },
+    { id: 13, name: 'Polka Dot Dress', price: 44.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Polka+Dot+Dress' },
+    { id: 14, name: 'Denim Dress', price: 69.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Denim+Dress' },
+    { id: 15, name: 'Casual Dress', price: 29.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Casual+Dress' },
+    { id: 16, name: 'Evening Dress', price: 89.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Evening+Dress' },
+    { id: 17, name: 'Cocktail Dress', price: 79.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Cocktail+Dress' },
+    { id: 18, name: 'Party Dress', price: 69.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Party+Dress' },
+    { id: 19, name: 'Office Dress', price: 39.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Office+Dress' },
+    { id: 20, name: 'Beach Dress', price: 49.99, category: 'Dress', image: 'https://via.placeholder.com/150?text=Beach+Dress' }
+  ];
